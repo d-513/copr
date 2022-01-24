@@ -9,6 +9,8 @@ License:        GPL
 Source0:        https://github.com/StopModReposts/List-Utils/archive/refs/tags/%{version}.tar.gz
 
 BuildRequires:  golang
+BuildRequires:  git
+
 
 %description
 A demo RPM build
